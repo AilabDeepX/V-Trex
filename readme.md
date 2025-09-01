@@ -1,38 +1,33 @@
 
 <div align=center>
-  <img src="assets/trex2/head.jpg" width=900 >
+  <img src="logo-1-primary.png" width=900 >
 </div>
 
 <div align=center>
-  <p> A picture speaks volumes, as do the words that frame it.</p>
-</div>
-
-<div align=center>
-
-![Static Badge](https://img.shields.io/badge/T--Rex-2-2) [![arXiv preprint](https://img.shields.io/badge/arxiv_2403.14610-blue%3Flog%3Darxiv)](https://arxiv.org/pdf/2403.14610.pdf)   [![Homepage](https://img.shields.io/badge/homepage-visit-blue)](https://deepdataspace.com/home) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMountchicken%2FT-Rex&count_bg=%2379C83D&title_bg=%23DF9B9B&icon=iconify.svg&icon_color=%23FFF9F9&title=VISITORS&edge_flat=false)](https://hits.seeyoufarm.com) [![Static Badge](https://img.shields.io/badge/Try_Demo!-blue?logo=chainguard&logoColor=green)](https://deepdataspace.com/playground/ivp)
 </div>
 
 
-# Contents 📜
+# Contents 
 - [Contents 📜](#contents-)
 - [1. Introduction 📚](#1-introduction-)
-  - [What Can T-Rex Do 📝](#what-can-V-Trex-do-)
+  - [What Can V-TRex Do 📝](#what-can-V-Trex-do-)
 - [2. COCO-BED dataset 🎮](#2-try-demo-)
 
 
-# 1. Introduction 📚
-Object detection, the ability to locate and identify objects within an image, is a cornerstone of computer vision, pivotal to applications ranging from autonomous driving to content moderation. A notable limitation of traditional object detection models is their closed-set nature. These models are trained on a predetermined set of categories, confining their ability to recognize only those specific categories. The training process itself is arduous, demanding expert knowledge, extensive datasets, and intricate model tuning to achieve desirable accuracy. Moreover, the introduction of a novel object category, exacerbates these challenges, necessitating the entire process to be repeated.
-
-T-Rex2 addresses these limitations by integrating both text and visual prompts in one model, thereby harnessing the strengths of both modalities. The synergy of text and visual prompts equips T-Rex2 with robust zero-shot capabilities, making it a versatile tool in the ever-changing landscape of object detection.
+# 1. Introduction 
+Object detection is a crucial component of computer vision, enabling the localization and identification of objects within images. It plays a vital role in a wide range of applications, from autonomous driving to content moderation. A significant limitation of traditional object detection models is their closed-set nature. These models are trained on a predefined set of categories and are thus restricted to recognizing only those specific categories. The training process itself is highly complex, requiring expert knowledge, extensive datasets, and meticulous model tuning to achieve the desired accuracy. Moreover, the introduction of a new object category exacerbates these challenges, necessitating the repetition of the entire training process.
+V-Trex addresses these limitations by integrating both text and visual prompts into a single model, thereby leveraging the strengths of both modalities. The synergy between text and visual prompts endows V-Trex with robust zero-shot capabilities, making it a versatile tool in the dynamic landscape of object detection.th text and visual prompts in one model, thereby harnessing the strengths of both modalities. The synergy of text and visual prompts equips T-Rex2 with robust zero-shot capabilities, making it a versatile tool in the ever-changing landscape of object detection.
 <!-- insert image in the middle -->
 <div align=center>
   <img src="assets/trex2/method.jpg" width=600 >
 </div>
 
-## What Can V-TRex Do 📝
-T-Rex2 is well-suited for a variety of real-world applications, including but not limited to: agriculture, industry, livstock and wild animals monitoring, biology, medicine, OCR, retail, electronics, transportation, logistics, and more. T-Rex2 mainly supports three major workflows including interactive visual prompt workflow, generic visual prompt workflow and text prompt workflow. It can cover most of the application scenarios that require object detection
+## What Can V-TRex Do
+V-Trex is highly adaptable to a wide range of real-world applications, including but not limited to power utilities, steel manufacturing, agriculture, industry, livestock and wildlife monitoring, biology, medicine, Optical Character Recognition (OCR), retail, electronics, transportation, logistics, and more. V-Trex primarily supports three key workflows: interactive visual prompt workflow, general visual prompt workflow, and text prompt workflow. These workflows are designed to cover the majority of scenarios that require object detection.
 
 ## V-Trex framwork
+
+
 
 ## COCO-BED Dataset
 
