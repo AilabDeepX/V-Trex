@@ -25,7 +25,7 @@ V-Trex is highly adaptable to a wide range of real-world applications, including
 
 <!-- insert image in the middle -->
 <div align=center>
-  <img src="./method.jpg" width=600 >
+  <img src="./overview_vt_rex_v5.png" width=1000 >
 </div>
 
 
@@ -39,7 +39,7 @@ The dataset can be found at:
 This dataset includes 20 randomly visualized images for reference.
 
 # 2. Related Works
-:fire: We release the [training and inference code](https://github.com/UX-Decoder/DINOv) and [demo link](http://semantic-sam.xyzou.net:6099/) of [DINOv](https://arxiv.org/pdf/2311.13601.pdf), which can handle in-context **visual prompts** for open-set and referring detection & segmentation. Check it out!
+:fire: We express our gratitude to the outstanding algorithms such as T-rex and T-rex2, Dino-X, Yoloworld, and others.
 
 # 3. LICENSE
 We use [AilabDeepX License 1.0](LICENSE)
