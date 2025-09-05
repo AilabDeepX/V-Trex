@@ -38,6 +38,10 @@ The dataset can be found at:
 
 This dataset includes 20 randomly visualized images for reference.
 
+## Result 
+
+
+
 # 2. Related Works
 :fire: We express our gratitude to the outstanding algorithms such as T-rex and T-rex2, Dino-X, Yoloworld, and others.
 
