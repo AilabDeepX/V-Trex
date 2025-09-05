@@ -30,7 +30,13 @@ V-Trex is highly adaptable to a wide range of real-world applications, including
 
 
 ## COCO-BED Dataset
-We have open-sourced the generation script for COCO-BED as well as the final generated dataset. The dataset is available on Baidu Drive at the following location:
+We have open-sourced the dataset generation script and the dataset itself. The script is available at:
+`./dataset_and_code/generate_coco_bed_v1.2.py`
+
+The dataset can be found at:
+`./dataset_and_code/coco_bed/instances_val2017_bed.json`
+
+This dataset includes 20 randomly visualized images for reference.
 
 # 2. Related Works
 :fire: We release the [training and inference code](https://github.com/UX-Decoder/DINOv) and [demo link](http://semantic-sam.xyzou.net:6099/) of [DINOv](https://arxiv.org/pdf/2311.13601.pdf), which can handle in-context **visual prompts** for open-set and referring detection & segmentation. Check it out!
