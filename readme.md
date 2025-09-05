@@ -12,8 +12,10 @@
 - [1. Introduction 📚](#1-introduction-)
   - [What Can V-TRex Do 📝](#what-can-V-Trex-do-)
 - [2. COCO-BED dataset 🎮](#2-try-demo-)
-
-
+- [3. V-Trex framework]()
+- [4. COCO-BED Dataset]()
+- [5. Result]()
+  
 # 1. Introduction 
 Object detection is a crucial component of computer vision, enabling the localization and identification of objects within images. It plays a vital role in a wide range of applications, from autonomous driving to content moderation. A significant limitation of traditional object detection models is their closed-set nature. These models are trained on a predefined set of categories and are thus restricted to recognizing only those specific categories. The training process itself is highly complex, requiring expert knowledge, extensive datasets, and meticulous model tuning to achieve the desired accuracy. Moreover, the introduction of a new object category exacerbates these challenges, necessitating the repetition of the entire training process.
 V-Trex addresses these limitations by integrating both text and visual prompts into a single model, thereby leveraging the strengths of both modalities. The synergy between text and visual prompts endows V-Trex with robust zero-shot capabilities, making it a versatile tool in the dynamic landscape of object detection.th text and visual prompts in one model, thereby harnessing the strengths of both modalities. The synergy of text and visual prompts equips V-Trex with robust zero-shot capabilities, making it a versatile tool in the ever-changing landscape of object detection.
