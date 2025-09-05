@@ -40,6 +40,10 @@ This dataset includes 20 randomly visualized images for reference.
 
 ## Result 
 
+<!-- insert image in the middle -->
+<div align=center>
+  <img src="./overview_vt_rex_v5.png" width=1000 >
+</div>
 
 
 # 2. Related Works
